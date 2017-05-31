@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1013248879870",
+    "firebase_url": "https://rumpi-91e43.firebaseio.com",
+    "project_id": "rumpi-91e43",
+    "storage_bucket": "rumpi-91e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013248879870:android:597c95ead4e24ca8",
+        "android_client_info": {
+          "package_name": "dev.karim.rumpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013248879870-8mrd7kj299t8l814h8ksccgiaqk9u07v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2OQtsHndHdD5IOH0mUipIr16b-covW0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
